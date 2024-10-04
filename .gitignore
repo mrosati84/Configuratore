@@ -1,0 +1,6 @@
+venv
+.flask_session
+.idea
+.env
+*.pyo
+*.pyc
